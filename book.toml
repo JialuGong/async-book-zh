@@ -8,8 +8,8 @@ create-missing = false
 [preprocess.links]
 
 [output.html]
-git-repository-url = "https://fourstacks.space/rust-async-book"
-site-url = "/rust-async-book/"
+git-repository-url = "https://github.com/rust-lang/async-book"
+site-url = "/async-book/"
 
 [output.linkcheck]
 optional=true
